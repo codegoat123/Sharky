@@ -10,7 +10,7 @@ export function GameUI() {
   };
 
   const handlePopout = () => {
-    window.open('https://betogxzw.netlify.app', '_blank', 'noopener,noreferrer');
+    window.open('https://edunature.netlify.app', '_blank', 'noopener,noreferrer');
   };
 
   // Handle keyboard toggle with 'C'
